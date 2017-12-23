@@ -13,7 +13,7 @@
         android:orientation="horizontal"
         android:layout_marginTop="200dp">
   <TextView
-        android:text="Hello Gan karepe!"
+        android:text="Hello World"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
