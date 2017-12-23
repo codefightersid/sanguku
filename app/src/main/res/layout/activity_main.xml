@@ -33,5 +33,4 @@
             android:text="Beli"
             android:textAlignment="center"/>
     </LinearLayout>
-
 </LinearLayout>
