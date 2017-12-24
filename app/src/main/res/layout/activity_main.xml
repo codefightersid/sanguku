@@ -17,13 +17,15 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Tabunganku"
-            android:textAlignment="center"/>
+            android:textAlignment="center"
+            android:id="@+id/Tabunganku"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Beli"
-            android:textAlignment="center"/>
+            android:textAlignment="center"
+            android:id="@+id/Beli"/>
     </LinearLayout>
 </LinearLayout>
